@@ -1,5 +1,3 @@
-// data/database.js - CÓDIGO CORRETO
-
 const dotenv = require('dotenv');
 dotenv.config();
 
