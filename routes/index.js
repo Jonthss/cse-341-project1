@@ -3,8 +3,7 @@ const router = require('express').Router();
 router.use('/', require('./swagger'));
 
 router.get('/', (req, res) => {
-    //#swagger.tags=['Sunseehray Tirazona']
-    res.send('Sunseehray Tirazona');
+    res.send('Jonathas Oliveira');
 });
 
 router.use('/users', require('./users'));
