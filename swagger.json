@@ -5,7 +5,7 @@
     "description": "Users API",
     "version": "1.0.0"
   },
-  "host": "sunseehray341project1.onrender.com",
+  "host": "project1-0o3x.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
@@ -14,7 +14,7 @@
     "/": {
       "get": {
         "tags": [
-          "Sunseehray Tirazona"
+          " Jonathas Oliveira"
         ],
         "description": "",
         "responses": {
